@@ -63,6 +63,17 @@ class _MyHomePageState extends State<MyHomePage> {
             translation: 'Segala puji bagi Allah, Tuhan semesta alam.',
           ),
           _ayatItem(
+            nomor: 2,
+            arabic: 'اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ',
+            translation:
+                'Segala Puji Bagi Allah Yang Maha Pengasih lagi Maha Penyayang.',
+          ),
+          _ayatItem(
+            nomor: 3,
+            arabic: 'الرَّحْمٰنِ الرَّحِيْمِۙ',
+            translation: 'Yang Maha Pengasih lagi Maha Penyayang',
+          ),
+          _ayatItem(
             nomor: 4,
             arabic: 'مٰلِكِ يَوْمِ الدِّيْنِ',
             translation: 'Pemilik hari pembalasan.',
